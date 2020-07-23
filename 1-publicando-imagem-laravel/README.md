@@ -28,4 +28,4 @@
 
 ![laravel](./.github/imgs/laravel.png)
 
-**OBS:** Foi gerado uma imagem e publicada no dockerhub, para acessar a imagem clique  [aqui](https://hub.docker.com/repository/docker/rodelima/projeto_publicando_imagem_laravel).
+**OBS:** Foi gerado uma imagem e publicada no dockerhub, para acessar a imagem clique  [aqui](https://hub.docker.com/r/urameshe/desafio-laravel).
